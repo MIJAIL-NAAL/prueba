@@ -1,3 +1,5 @@
 # prueba
 
-This is only "prueba"
+This is only "prueba" from tutorial
+
+No responsive
